@@ -6,9 +6,10 @@ Nguyễn Đỗ Quang - 20520720 (KHCL)
 Trần Nguyễn Quỳnh Anh - 19521217
 Đinh Hoàng Linh Đan - 19521309
 
-***[Link Dataset](https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing) ***
+***[Link Dataset] ***(https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing)
 
-Cách xây dựng dataset
+Cách xây dựng dataset:
+
 +Dữ liệu gôm hơn 100 từ ngữ được nhóm tự thu thập và lưu lại.
 
 +Mỗi từ ngữ bao gồm 30 video mà mỗi video là 30 frame lưu trữ những keypoint được lấy từ người thực hiện ngôn ngữ ký hiệu.
