@@ -10,5 +10,7 @@ Trần Nguyễn Quỳnh Anh - 19521217
 
 Cách xây dựng dataset
 +Dữ liệu gôm hơn 100 từ ngữ được nhóm tự thu thập và lưu lại.
+
 +Mỗi từ ngữ bao gồm 30 video mà mỗi video là 30 frame lưu trữ những keypoint được lấy từ người thực hiện ngôn ngữ ký hiệu.
+
 +Nhóm sử dụng code để ghi lại trực tiếp những keypoint dưới dạng file numpy array của 30 video sau đó file được lưu lại trên máy tính và up lên Google Drive để tiện sử dụng trong chương trình.
