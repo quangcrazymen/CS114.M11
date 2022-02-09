@@ -1,10 +1,14 @@
 # CS114.M11
-Repository for Machine learning class
+Repository for Machine learning class: [github link](https://github.com/quangcrazymen/CS114.M11)
 
 ID: CIA
-Nguyễn Đỗ Quang - 20520720 (KHCL)
-Trần Nguyễn Quỳnh Anh - 19521217
-Đinh Hoàng Linh Đan - 19521309
+## **Danh sách thành viên:**
+
+| Tên | Mã số sinh viên | Lớp |
+|:-------- |:--------:| --------:|
+| Nguyễn Đỗ Quang     |  20520720   |     CS114.M11.KHCL |
+| Trần Nguyễn Quỳnh Anh     |   19521217   |     CS114.M11 |
+| Đinh Hoàng Linh Đan     |  19521309   |     CS114.M11 |
 
 Đường dẫn đến dataset [ở đây](https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing)
 
