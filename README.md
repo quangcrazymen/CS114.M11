@@ -6,7 +6,7 @@ Nguyễn Đỗ Quang - 20520720 (KHCL)
 Trần Nguyễn Quỳnh Anh - 19521217
 Đinh Hoàng Linh Đan - 19521309
 
-***[Link Dataset] ***(https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing)
+Đường dẫn đến dataset [ở đây](https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing)
 
 Cách xây dựng dataset:
 
