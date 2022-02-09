@@ -12,6 +12,8 @@ ID: CIA
 
 Đường dẫn đến dataset [ở đây](https://drive.google.com/drive/folders/1n4ph7SsSObwNpTP0any4A3F5Jt8yPoYr?usp=sharing)
 
+Video mô tả quá trình thu thập dữ liệu [ở đây](https://www.youtube.com/watch?v=OtYqdR_DgNQ)
+
 Cách xây dựng dataset:
 
 +Dữ liệu gôm hơn 100 từ ngữ được nhóm tự thu thập và lưu lại.
